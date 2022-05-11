@@ -88,7 +88,7 @@
         </div>
     </div>
     <!-- Extremo giratorio -->
-
+    <h3>hola mi tio</h3>
 
     <!-- Inicio de la barra de navegación -->
     <nav class="navbar navbar-expand-lg bg-secondary navbar-dark sticky-top py-lg-0 px-lg-5 wow fadeIn" data-wow-delay="0.1s">
